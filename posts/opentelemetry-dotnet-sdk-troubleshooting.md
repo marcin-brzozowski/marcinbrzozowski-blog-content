@@ -5,7 +5,7 @@ title: Opentelemetry .NET SDK Troubleshooting
 excerpt: "Discover how to troubleshoot common issues with the OpenTelemetry SDK in .NET applications, focusing on enabling hidden self-diagnostics to quickly identify and resolve configuration errors like endpoint typos."
 category: Guide
 author: Marcin Brzozowski
-image: ../assets/otel-troubleshooting.png
+image: ../assets/opentelemetry-dotnet-sdk-troubleshooting.hero.png
 tags:
   - dotnet
   - opentelemetry
@@ -13,6 +13,7 @@ tags:
 metadata:
   canonical: https://marcinbrzozowski.dev/opentelemetry-dotnet-sdk-troubleshooting
 ---
+
 Hello, in this short blog post I'd like to go over the challenges related to troubleshooting the OpenTelemetry SDK in .NET applications.
 
 ## Problem Statement
