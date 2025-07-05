@@ -1,6 +1,6 @@
 ---
 publishDate: 2025-03-30T08:56:16Z
-draft: false
+draft: true
 title: Opentelemetry .NET SDK Troubleshooting using Logging Pipeline
 excerpt: "TBD"
 category: Guide
