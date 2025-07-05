@@ -17,3 +17,5 @@ metadata:
 Hello, in this short blog post I'd like to continue the topic of troubleshooting Opentelemetry .NET SDK, but this time I will focus on how we can collect the SDK's metrics using the ordinary logging pipeline.
 
 ## TBD
+
+Lorem ipsum
