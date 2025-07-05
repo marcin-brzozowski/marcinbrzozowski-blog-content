@@ -18,4 +18,4 @@ Hello, in this short blog post I'd like to continue the topic of troubleshooting
 
 ## TBD
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+Lorem ipsum dolor sit amet
